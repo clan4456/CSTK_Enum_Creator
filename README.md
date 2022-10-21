@@ -1,4 +1,4 @@
-# CLAN Studio Toolkits - Icon Creator
+# CLAN Studio Toolkits - Enum Creator
 
 下载地址：[clan_studio_lib_cstk_enum_creator-1.0.0.1.vip](https://github.com/clan4456/CSTK_Enum_Creator/releases/download/v1.0.0.1/clan_studio_lib_cstk_enum_creator-1.0.0.1.vip)
 
