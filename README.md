@@ -18,7 +18,7 @@ SHA-256：ea9b0e04b98527f48bbdacf63c548f33b6c978f495d5eab3dd94611e16ab2ee8
 
 ## 3. 安装Enum Creator
 
-下载Release中的`clan_studio_lib_cstk_enum_creator-1.0.0.1.vip`，并双击通过VIPM进行安装。（需安装VIPM 2014或以上版本）
+下载Release中的`clan_studio_lib_cstk_enum_creator-1.0.0.1.vip`，并双击通过VIPM进行安装。（需安装VIPM 2017或以上版本）
 
 ## 4. 打开Enum Creator
 
